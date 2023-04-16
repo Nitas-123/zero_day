@@ -1,1 +1,1 @@
-*Emphazise*
+**Strong**
